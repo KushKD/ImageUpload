@@ -1,0 +1,12 @@
+c:\users\gunesx\documents\visual studio 2013\Projects\WcfAndroidPhotoServis\WcfAndroidPhotoServis\bin\WcfAndroidPhotoServis.dll.config
+c:\users\gunesx\documents\visual studio 2013\Projects\WcfAndroidPhotoServis\WcfAndroidPhotoServis\bin\WcfAndroidPhotoServis.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\WcfAndroidPhotoServis\WcfAndroidPhotoServis\bin\WcfAndroidPhotoServis.pdb
+c:\users\gunesx\documents\visual studio 2013\Projects\WcfAndroidPhotoServis\WcfAndroidPhotoServis\obj\Release\WcfAndroidPhotoServis.dll
+c:\users\gunesx\documents\visual studio 2013\Projects\WcfAndroidPhotoServis\WcfAndroidPhotoServis\obj\Release\WcfAndroidPhotoServis.pdb
+c:\users\gunesx\documents\visual studio 2013\Projects\WcfAndroidPhotoServis\WcfAndroidPhotoServis\obj\Release\WcfAndroidPhotoServis.csprojResolveAssemblyReference.cache
+C:\Users\kuush\Desktop\nishikant\AndroidWcfImageUpload-master\WcfAndroidPhotoServis\WcfAndroidPhotoServis\bin\WcfAndroidPhotoServis.dll.config
+C:\Users\kuush\Desktop\nishikant\AndroidWcfImageUpload-master\WcfAndroidPhotoServis\WcfAndroidPhotoServis\bin\WcfAndroidPhotoServis.dll
+C:\Users\kuush\Desktop\nishikant\AndroidWcfImageUpload-master\WcfAndroidPhotoServis\WcfAndroidPhotoServis\bin\WcfAndroidPhotoServis.pdb
+C:\Users\kuush\Desktop\nishikant\AndroidWcfImageUpload-master\WcfAndroidPhotoServis\WcfAndroidPhotoServis\obj\Release\WcfAndroidPhotoServis.csprojResolveAssemblyReference.cache
+C:\Users\kuush\Desktop\nishikant\AndroidWcfImageUpload-master\WcfAndroidPhotoServis\WcfAndroidPhotoServis\obj\Release\WcfAndroidPhotoServis.dll
+C:\Users\kuush\Desktop\nishikant\AndroidWcfImageUpload-master\WcfAndroidPhotoServis\WcfAndroidPhotoServis\obj\Release\WcfAndroidPhotoServis.pdb

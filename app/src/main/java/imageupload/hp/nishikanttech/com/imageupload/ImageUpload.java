@@ -190,7 +190,7 @@ class Upload_Photo extends AsyncTask<Object,String,String>{
         Log.e("Image Name: ",photo_Details.getPhotoname());
 
         try {
-            url_ =new URL("http://10.0.2.2"+"/getConfirmParkOutStatus_JSON");
+            url_ =new URL("http://192.168.1.34:6001/WcfAndroidImageService.svc/LoadPhoto");  //Kush PC
             conn_ = (HttpURLConnection)url_.openConnection();
             conn_.setDoOutput(true);
             conn_.setRequestMethod("POST");
@@ -201,7 +201,7 @@ class Upload_Photo extends AsyncTask<Object,String,String>{
             conn_.connect();
 
             userJson = new JSONStringer()
-                    .object().key("Photo")
+                    .object().key("photo")
                     .object()
                     .key("photoName").value(photo_server.getPhotoname())
                     .key("photoasBase64").value(photo_server.getPhotobase64encode())
